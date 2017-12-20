@@ -1,0 +1,12 @@
+name: course2018
+channels:
+   - conda-forge
+dependencies:
+   - python=3.6
+   - ipython
+   - jupyter
+   - numpy
+   - matplotlib
+   - pandas
+   - cartopy
+   - xarray
