@@ -1,0 +1,359 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF ESRL GMD DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: insure that ESRL receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: ESRL should be informed at the outset of the nature of this work.  
+# comment: If the ESRL data are essential to the work, or if an important 
+# comment: result or conclusion depends on the ESRL data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
+# comment: for review before they are submitted for publication so we can
+# comment: insure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO2C13 SIL (Individual Flasks)
+# contact_name: Bruce H Vaughn
+# contact_telephone: (303) 492-7985
+# contact_email: Bruce.Vaughn@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: NOAA Earth System Research Laboratory, Global
+# collaborator_name: Monitoring Division [NOAA ESRL GMD]
+# collaborator_url: http://www.esrl.noaa.gov/gmd
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the ESRL data, namely well documented model code, transport
+# comment: fields, and additional information necessary for other
+# comment: scientists to repeat the work and to run modified versions.
+# comment: Model availability includes collaborative support for new
+# comment: users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: mlo
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2015-10-26 13:18:16
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+MLO 1990  1   -7.842
+MLO 1990  2   -7.881
+MLO 1990  3   -7.942
+MLO 1990  4   -7.991
+MLO 1990  5   -7.996
+MLO 1990  6   -7.948
+MLO 1990  7   -7.855
+MLO 1990  8   -7.741
+MLO 1990  9   -7.670
+MLO 1990 10   -7.680
+MLO 1990 11   -7.753
+MLO 1990 12   -7.832
+MLO 1991  1   -7.874
+MLO 1991  2   -7.904
+MLO 1991  3   -7.955
+MLO 1991  4   -8.013
+MLO 1991  5   -8.023
+MLO 1991  6   -7.962
+MLO 1991  7   -7.861
+MLO 1991  8   -7.749
+MLO 1991  9   -7.698
+MLO 1991 10   -7.724
+MLO 1991 11   -7.789
+MLO 1991 12   -7.842
+MLO 1992  1   -7.869
+MLO 1992  2   -7.900
+MLO 1992  3   -7.949
+MLO 1992  4   -8.001
+MLO 1992  5   -8.018
+MLO 1992  6   -7.975
+MLO 1992  7   -7.877
+MLO 1992  8   -7.764
+MLO 1992  9   -7.700
+MLO 1992 10   -7.700
+MLO 1992 11   -7.749
+MLO 1993 11   -7.767
+MLO 1993 12   -7.835
+MLO 1994  1   -7.885
+MLO 1994  2   -7.923
+MLO 1994  3   -7.971
+MLO 1994  4   -8.022
+MLO 1994  5   -8.036
+MLO 1994  6   -7.997
+MLO 1994  7   -7.897
+MLO 1994  8   -7.773
+MLO 1994  9   -7.705
+MLO 1994 10   -7.738
+MLO 1994 11   -7.831
+MLO 1994 12   -7.931
+MLO 1995  1   -7.978
+MLO 1995  2   -7.992
+MLO 1995  3   -8.027
+MLO 1995  4   -8.084
+MLO 1995  5   -8.112
+MLO 1995  6   -8.078
+MLO 1995  7   -7.976
+MLO 1995  8   -7.863
+MLO 1995  9   -7.785
+MLO 1995 10   -7.792
+MLO 1995 11   -7.850
+MLO 1995 12   -7.920
+MLO 1996  1   -7.967
+MLO 1996  2   -8.000
+MLO 1996  3   -8.052
+MLO 1996  4   -8.108
+MLO 1996  5   -8.130
+MLO 1996  6   -8.094
+MLO 1996  7   -8.005
+MLO 1996  8   -7.878
+MLO 1996  9   -7.793
+MLO 1996 10   -7.795
+MLO 1996 11   -7.855
+MLO 1996 12   -7.917
+MLO 1997  1   -7.954
+MLO 1997  2   -7.998
+MLO 1997  3   -8.063
+MLO 1997  4   -8.127
+MLO 1997  5   -8.138
+MLO 1997  6   -8.071
+MLO 1997  7   -7.959
+MLO 1997  8   -7.832
+MLO 1997  9   -7.768
+MLO 1997 10   -7.803
+MLO 1997 11   -7.888
+MLO 1997 12   -7.958
+MLO 1998  1   -8.009
+MLO 1998  2   -8.058
+MLO 1998  3   -8.122
+MLO 1998  4   -8.186
+MLO 1998  5   -8.216
+MLO 1998  6   -8.184
+MLO 1998  7   -8.092
+MLO 1998  8   -7.979
+MLO 1998  9   -7.913
+MLO 1998 10   -7.924
+MLO 1998 11   -7.999
+MLO 1998 12   -8.068
+MLO 1999  1   -8.109
+MLO 1999  2   -8.129
+MLO 1999  3   -8.160
+MLO 1999  4   -8.202
+MLO 1999  5   -8.214
+MLO 1999  6   -8.177
+MLO 1999  7   -8.082
+MLO 1999  8   -7.963
+MLO 1999  9   -7.894
+MLO 1999 10   -7.904
+MLO 1999 11   -7.981
+MLO 1999 12   -8.061
+MLO 2000  1   -8.102
+MLO 2000  2   -8.119
+MLO 2000  3   -8.149
+MLO 2000  4   -8.182
+MLO 2000  5   -8.185
+MLO 2000  6   -8.144
+MLO 2000  7   -8.062
+MLO 2000  8   -7.977
+MLO 2000  9   -7.917
+MLO 2000 10   -7.924
+MLO 2000 11   -7.971
+MLO 2000 12   -8.029
+MLO 2001  1   -8.072
+MLO 2001  2   -8.111
+MLO 2001  3   -8.172
+MLO 2001  4   -8.226
+MLO 2001  5   -8.227
+MLO 2001  6   -8.162
+MLO 2001  7   -8.055
+MLO 2001  8   -7.950
+MLO 2001  9   -7.904
+MLO 2001 10   -7.930
+MLO 2001 11   -7.998
+MLO 2001 12   -8.057
+MLO 2002  1   -8.085
+MLO 2002  2   -8.109
+MLO 2002  3   -8.161
+MLO 2002  4   -8.223
+MLO 2002  5   -8.246
+MLO 2002  6   -8.207
+MLO 2002  7   -8.120
+MLO 2002  8   -8.005
+MLO 2002  9   -7.941
+MLO 2002 10   -7.960
+MLO 2002 11   -8.031
+MLO 2002 12   -8.099
+MLO 2003  1   -8.139
+MLO 2003  2   -8.181
+MLO 2003  3   -8.242
+MLO 2003  4   -8.303
+MLO 2003  5   -8.323
+MLO 2003  6   -8.275
+MLO 2003  7   -8.184
+MLO 2003  8   -8.074
+MLO 2003  9   -8.016
+MLO 2003 10   -8.040
+MLO 2003 11   -8.100
+MLO 2003 12   -8.148
+MLO 2004  1   -8.189
+MLO 2004  2   -8.242
+MLO 2004  3   -8.309
+MLO 2004  4   -8.363
+MLO 2004  5   -8.349
+MLO 2004  6   -8.276
+MLO 2004  7   -8.160
+MLO 2004  8   -8.055
+MLO 2004  9   -8.011
+MLO 2004 10   -8.034
+MLO 2004 11   -8.097
+MLO 2004 12   -8.156
+MLO 2005  1   -8.201
+MLO 2005  2   -8.244
+MLO 2005  3   -8.301
+MLO 2005  4   -8.358
+MLO 2005  5   -8.372
+MLO 2005  6   -8.337
+MLO 2005  7   -8.249
+MLO 2005  8   -8.140
+MLO 2005  9   -8.070
+MLO 2005 10   -8.077
+MLO 2005 11   -8.133
+MLO 2005 12   -8.194
+MLO 2006  1   -8.230
+MLO 2006  2   -8.261
+MLO 2006  3   -8.327
+MLO 2006  4   -8.399
+MLO 2006  5   -8.418
+MLO 2006  6   -8.363
+MLO 2006  7   -8.252
+MLO 2006  8   -8.145
+MLO 2006  9   -8.078
+MLO 2006 10   -8.087
+MLO 2006 11   -8.142
+MLO 2006 12   -8.212
+MLO 2007  1   -8.268
+MLO 2007  2   -8.314
+MLO 2007  3   -8.373
+MLO 2007  4   -8.421
+MLO 2007  5   -8.423
+MLO 2007  6   -8.367
+MLO 2007  7   -8.265
+MLO 2007  8   -8.151
+MLO 2007  9   -8.087
+MLO 2007 10   -8.104
+MLO 2007 11   -8.182
+MLO 2007 12   -8.263
+MLO 2008  1   -8.306
+MLO 2008  2   -8.327
+MLO 2008  3   -8.357
+MLO 2008  4   -8.397
+MLO 2008  5   -8.425
+MLO 2008  6   -8.402
+MLO 2008  7   -8.323
+MLO 2008  8   -8.203
+MLO 2008  9   -8.122
+MLO 2008 10   -8.131
+MLO 2008 11   -8.197
+MLO 2008 12   -8.258
+MLO 2009  1   -8.305
+MLO 2009  2   -8.344
+MLO 2009  3   -8.388
+MLO 2009  4   -8.428
+MLO 2009  5   -8.433
+MLO 2009  6   -8.385
+MLO 2009  7   -8.288
+MLO 2009  8   -8.178
+MLO 2009  9   -8.122
+MLO 2009 10   -8.145
+MLO 2009 11   -8.224
+MLO 2009 12   -8.294
+MLO 2010  1   -8.340
+MLO 2010  2   -8.376
+MLO 2010  3   -8.429
+MLO 2010  4   -8.496
+MLO 2010  5   -8.518
+MLO 2010  6   -8.468
+MLO 2010  7   -8.347
+MLO 2010  8   -8.212
+MLO 2010  9   -8.141
+MLO 2010 10   -8.156
+MLO 2010 11   -8.237
+MLO 2010 12   -8.322
+MLO 2011  1   -8.366
+MLO 2011  2   -8.373
+MLO 2011  3   -8.382
+MLO 2011  4   -8.410
+MLO 2011  5   -8.435
+MLO 2011  6   -8.424
+MLO 2011  7   -8.349
+MLO 2011  8   -8.235
+MLO 2011  9   -8.166
+MLO 2011 10   -8.188
+MLO 2011 11   -8.259
+MLO 2011 12   -8.325
+MLO 2012  1   -8.353
+MLO 2012  2   -8.377
+MLO 2012  3   -8.439
+MLO 2012  4   -8.507
+MLO 2012  5   -8.522
+MLO 2012  6   -8.470
+MLO 2012  7   -8.371
+MLO 2012  8   -8.268
+MLO 2012  9   -8.212
+MLO 2012 10   -8.228
+MLO 2012 11   -8.292
+MLO 2012 12   -8.353
+MLO 2013  1   -8.386
+MLO 2013  2   -8.418
+MLO 2013  3   -8.485
+MLO 2013  4   -8.565
+MLO 2013  5   -8.600
+MLO 2013  6   -8.562
+MLO 2013  7   -8.471
+MLO 2013  8   -8.351
+MLO 2013  9   -8.279
+MLO 2013 10   -8.288
+MLO 2013 11   -8.350
+MLO 2013 12   -8.405
+MLO 2014  1   -8.431
+MLO 2014  2   -8.463
+MLO 2014  3   -8.524
+MLO 2014  4   -8.590
+MLO 2014  5   -8.608
+MLO 2014  6   -8.546
+MLO 2014  7   -8.439
+MLO 2014  8   -8.318
+MLO 2014  9   -8.260
+MLO 2014 10   -8.293
+MLO 2014 11   -8.370
+MLO 2014 12   -8.429

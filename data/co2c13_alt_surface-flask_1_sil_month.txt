@@ -1,0 +1,337 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF ESRL GMD DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: insure that ESRL receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: ESRL should be informed at the outset of the nature of this work.  
+# comment: If the ESRL data are essential to the work, or if an important 
+# comment: result or conclusion depends on the ESRL data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
+# comment: for review before they are submitted for publication so we can
+# comment: insure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO2C13 SIL (Individual Flasks)
+# contact_name: Bruce H Vaughn
+# contact_telephone: (303) 492-7985
+# contact_email: Bruce.Vaughn@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Environment Canada [EC]
+# collaborator_url: http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the ESRL data, namely well documented model code, transport
+# comment: fields, and additional information necessary for other
+# comment: scientists to repeat the work and to run modified versions.
+# comment: Model availability includes collaborative support for new
+# comment: users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: alt
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2015-10-26 13:17:46
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ALT 1992  4   -8.261
+ALT 1992  5   -8.265
+ALT 1992  6   -8.147
+ALT 1992  7   -7.770
+ALT 1992  8   -7.441
+ALT 1992  9   -7.450
+ALT 1992 10   -7.692
+ALT 1992 11   -7.945
+ALT 1992 12   -8.107
+ALT 1993  1   -8.182
+ALT 1993  2   -8.216
+ALT 1993  3   -8.244
+ALT 1993  4   -8.275
+ALT 1993  5   -8.300
+ALT 1993  6   -8.190
+ALT 1993  7   -7.824
+ALT 1993  8   -7.492
+ALT 1993  9   -7.503
+ALT 1993 10   -7.724
+ALT 1993 11   -7.930
+ALT 1993 12   -8.111
+ALT 1994  1   -8.233
+ALT 1994  2   -8.297
+ALT 1994  3   -8.314
+ALT 1994  4   -8.297
+ALT 1994  5   -8.285
+ALT 1994  6   -8.148
+ALT 1994  7   -7.802
+ALT 1994  8   -7.538
+ALT 1994  9   -7.568
+ALT 1994 10   -7.812
+ALT 1994 11   -8.028
+ALT 1994 12   -8.189
+ALT 1995  1   -8.262
+ALT 1995  2   -8.284
+ALT 1995  3   -8.286
+ALT 1995  4   -8.290
+ALT 1995  5   -8.312
+ALT 1995  6   -8.210
+ALT 1995  7   -7.876
+ALT 1995  8   -7.585
+ALT 1995  9   -7.618
+ALT 1995 10   -7.840
+ALT 1995 11   -8.085
+ALT 1995 12   -8.242
+ALT 1996  1   -8.296
+ALT 1996  2   -8.307
+ALT 1996  3   -8.310
+ALT 1996  4   -8.332
+ALT 1996  5   -8.389
+ALT 1996  6   -8.319
+ALT 1996  7   -8.029
+ALT 1996  8   -7.704
+ALT 1996  9   -7.663
+ALT 1996 10   -7.853
+ALT 1996 11   -8.076
+ALT 1996 12   -8.231
+ALT 1997  1   -8.321
+ALT 1997  2   -8.347
+ALT 1997  3   -8.342
+ALT 1997  4   -8.337
+ALT 1997  5   -8.342
+ALT 1997  6   -8.214
+ALT 1997  7   -7.852
+ALT 1997  8   -7.566
+ALT 1997  9   -7.613
+ALT 1997 10   -7.865
+ALT 1997 11   -8.100
+ALT 1997 12   -8.237
+ALT 1998  1   -8.317
+ALT 1998  2   -8.353
+ALT 1998  3   -8.363
+ALT 1998  4   -8.375
+ALT 1998  5   -8.404
+ALT 1998  6   -8.317
+ALT 1998  7   -7.987
+ALT 1998  8   -7.696
+ALT 1998  9   -7.723
+ALT 1998 10   -7.967
+ALT 1998 11   -8.211
+ALT 1998 12   -8.364
+ALT 1999  1   -8.435
+ALT 1999  2   -8.462
+ALT 1999  3   -8.475
+ALT 1999  4   -8.475
+ALT 1999  5   -8.466
+ALT 1999  6   -8.340
+ALT 1999  7   -7.987
+ALT 1999  8   -7.689
+ALT 1999  9   -7.737
+ALT 1999 10   -7.977
+ALT 1999 11   -8.174
+ALT 1999 12   -8.314
+ALT 2000  1   -8.383
+ALT 2000  2   -8.417
+ALT 2000  3   -8.440
+ALT 2000  4   -8.455
+ALT 2000  5   -8.464
+ALT 2000  6   -8.332
+ALT 2000  7   -7.982
+ALT 2000  8   -7.703
+ALT 2000  9   -7.747
+ALT 2000 10   -7.957
+ALT 2000 11   -8.174
+ALT 2000 12   -8.316
+ALT 2001  1   -8.381
+ALT 2001  2   -8.420
+ALT 2001  3   -8.447
+ALT 2001  4   -8.459
+ALT 2001  5   -8.454
+ALT 2001  6   -8.295
+ALT 2001  7   -7.963
+ALT 2001  8   -7.680
+ALT 2001  9   -7.739
+ALT 2001 10   -7.973
+ALT 2001 11   -8.206
+ALT 2001 12   -8.351
+ALT 2002  1   -8.420
+ALT 2002  2   -8.458
+ALT 2002  3   -8.470
+ALT 2002  4   -8.469
+ALT 2002  5   -8.468
+ALT 2002  6   -8.341
+ALT 2002  7   -8.037
+ALT 2002  8   -7.752
+ALT 2002  9   -7.779
+ALT 2002 10   -8.009
+ALT 2002 11   -8.223
+ALT 2002 12   -8.360
+ALT 2003  1   -8.464
+ALT 2003  2   -8.535
+ALT 2003  3   -8.564
+ALT 2003  4   -8.568
+ALT 2003  5   -8.571
+ALT 2003  6   -8.458
+ALT 2003  7   -8.118
+ALT 2003  8   -7.837
+ALT 2003  9   -7.867
+ALT 2003 10   -8.094
+ALT 2003 11   -8.314
+ALT 2003 12   -8.441
+ALT 2004  1   -8.506
+ALT 2004  2   -8.531
+ALT 2004  3   -8.539
+ALT 2004  4   -8.554
+ALT 2004  5   -8.581
+ALT 2004  6   -8.484
+ALT 2004  7   -8.131
+ALT 2004  8   -7.806
+ALT 2004  9   -7.830
+ALT 2004 10   -8.072
+ALT 2005  4   -8.600
+ALT 2005  5   -8.611
+ALT 2005  6   -8.484
+ALT 2005  7   -8.130
+ALT 2005  8   -7.854
+ALT 2005  9   -7.874
+ALT 2005 10   -8.118
+ALT 2005 11   -8.338
+ALT 2005 12   -8.491
+ALT 2006  1   -8.546
+ALT 2006  2   -8.560
+ALT 2006  3   -8.585
+ALT 2006  4   -8.633
+ALT 2006  5   -8.685
+ALT 2006  6   -8.587
+ALT 2006  7   -8.235
+ALT 2006  8   -7.923
+ALT 2006  9   -7.942
+ALT 2006 10   -8.155
+ALT 2006 11   -8.399
+ALT 2006 12   -8.567
+ALT 2007  1   -8.637
+ALT 2007  2   -8.662
+ALT 2007  3   -8.666
+ALT 2007  4   -8.668
+ALT 2007  5   -8.669
+ALT 2007  6   -8.514
+ALT 2007  7   -8.165
+ALT 2007  8   -7.850
+ALT 2007  9   -7.892
+ALT 2007 10   -8.136
+ALT 2007 11   -8.396
+ALT 2007 12   -8.567
+ALT 2008  1   -8.659
+ALT 2008  2   -8.718
+ALT 2008  3   -8.737
+ALT 2008  4   -8.724
+ALT 2008  5   -8.693
+ALT 2008  6   -8.543
+ALT 2008  7   -8.189
+ALT 2008  8   -7.914
+ALT 2008  9   -7.954
+ALT 2008 10   -8.196
+ALT 2008 11   -8.435
+ALT 2008 12   -8.576
+ALT 2009  1   -8.646
+ALT 2009  2   -8.666
+ALT 2009  3   -8.673
+ALT 2009  4   -8.687
+ALT 2009  5   -8.697
+ALT 2009  6   -8.570
+ALT 2009  7   -8.190
+ALT 2009  8   -7.869
+ALT 2009  9   -7.894
+ALT 2009 10   -8.153
+ALT 2009 11   -8.411
+ALT 2009 12   -8.564
+ALT 2010  1   -8.623
+ALT 2010  2   -8.643
+ALT 2010  3   -8.662
+ALT 2010  4   -8.681
+ALT 2010  5   -8.685
+ALT 2010  6   -8.560
+ALT 2010  7   -8.212
+ALT 2010  8   -7.941
+ALT 2010  9   -8.027
+ALT 2010 10   -8.283
+ALT 2010 11   -8.468
+ALT 2010 12   -8.588
+ALT 2011  1   -8.652
+ALT 2011  2   -8.690
+ALT 2011  3   -8.715
+ALT 2011  4   -8.726
+ALT 2011  5   -8.732
+ALT 2011  6   -8.588
+ALT 2011  7   -8.213
+ALT 2011  8   -7.924
+ALT 2011  9   -7.948
+ALT 2011 10   -8.211
+ALT 2011 11   -8.455
+ALT 2011 12   -8.633
+ALT 2012  1   -8.707
+ALT 2012  2   -8.723
+ALT 2012  3   -8.726
+ALT 2012  4   -8.726
+ALT 2012  5   -8.712
+ALT 2012  6   -8.543
+ALT 2012  7   -8.206
+ALT 2012  8   -7.933
+ALT 2012  9   -8.009
+ALT 2012 10   -8.258
+ALT 2012 11   -8.506
+ALT 2012 12   -8.661
+ALT 2013  1   -8.731
+ALT 2013  2   -8.759
+ALT 2013  3   -8.765
+ALT 2013  4   -8.774
+ALT 2013  5   -8.806
+ALT 2013  6   -8.711
+ALT 2013  7   -8.413
+ALT 2013  8   -8.110
+ALT 2013  9   -8.123
+ALT 2013 10   -8.365
+ALT 2013 11   -8.599
+ALT 2013 12   -8.725
+ALT 2014  1   -8.778
+ALT 2014  2   -8.796
+ALT 2014  3   -8.808
+ALT 2014  4   -8.820
+ALT 2014  5   -8.832
+ALT 2014  6   -8.706
+ALT 2014  7   -8.343
+ALT 2014  8   -8.045
+ALT 2014  9   -8.076
+ALT 2014 10   -8.319
+ALT 2014 11   -8.560
+ALT 2014 12   -8.700
